@@ -39,6 +39,6 @@ Contents
    :maxdepth: 1
 
    generalpolicies
-
+   mri
 
 
