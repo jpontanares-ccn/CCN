@@ -47,3 +47,21 @@ Certification FAQ
 
 - The most likely reason is that your safety certification has expired. You can see certification expiration dates in the My Profile > My Personnel page on SIStat. Users also receive an email a few weeks before expiration.
 
+Scan Personnel
+---------------
+**User Rights:** All users have equal rights and privileges to perform projects at the center. All users will be treated with respect; failure to do so may result in suspension of scanning privileges. Any user can ask questions and suggest policy changes/additions by reaching out to Executive Committee.
+
+**Scan Personnel:** For the safety of both the participants and the investigators, all scans must have two MR-safety certified investigators in the facility for the entire duration of the scan. In case this cannot be achieved, please make arrangements with one of our MR Technicians to provide support. MR Technicians are not required to be on the premises during all scans, and cannot be assumed to provide backup support without prior notice. Please note that at least one individual present is required to be a full-time/part-time staff, graduate student, post-doc etc. Part-time paid undergraduate researchers cannot presently act as primary users unless submitted to CCN for review.
+
+**MR Technician Services:** The Staglin One Mind MR technicians maintain the MR facility and are available to support experimenters in all aspects of MR imaging, including assisting during scanning. If there is an anticipated need for support during scanning, experimenters must contact the technicians well in advance of the scheduled scan. Contact information is posted in multiple areas throughout the center (e.g., on the control room wall, by the Eyetracking computer) in the event of unanticipated issues during the scan.
+
+**Observers:** Persons who have not completed safety certification are not allowed to observe scans or enter the magnet room for training or other purposes. For case-by-case exceptions with respect to scan shadowing, see the sections regarding CCN's Restricted Areas policy and Common Personnel Questions.
+
+**Volunteers:** All volunteers who would like to join a lab and gain valuable research experience at the Staglin Center are required to undergo the full on-boarding process with the `UCLA Health Sciences Volunteer Program <https://www.uclahealth.org/Volunteer/ucla-health-sciences-volunteer-program>`_. Please read through the `Staglin Volunteer Addendum <https://drive.google.com/file/d/1zPvjn6u_a6ogrXOi2bJVTLCrzhcw35qz/view?usp=sharing>`_ for duties and responsibilities. 
+
+- In short, volunteers are not allowed to have direct physical contact with research participants or operate the scanner unless dealing with an emergency. Their role should be limited to tasks that do not involve handling the scanner or touching the subject, such as operating the task computer. This is true even for volunteers who have completed safety certification.
+
+**Visitors:** As per Staglin One Mind CCN safety protocol, visitors are not allowed in the MR suite without prior approval. Please contact our MR Technicians to arrange a visit for a group or individual.
+
+Scan Scheduling
+---------------
