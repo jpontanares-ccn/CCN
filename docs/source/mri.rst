@@ -47,8 +47,8 @@ Certification FAQ
 
 - The most likely reason is that your safety certification has expired. You can see certification expiration dates in the My Profile > My Personnel page on SIStat. Users also receive an email a few weeks before expiration.
 
-Scan Personnel
----------------
+Scan Users
+----------
 **User Rights:** All users have equal rights and privileges to perform projects at the center. All users will be treated with respect; failure to do so may result in suspension of scanning privileges. Any user can ask questions and suggest policy changes/additions by reaching out to Executive Committee.
 
 **Scan Personnel:** For the safety of both the participants and the investigators, all scans must have two MR-safety certified investigators in the facility for the entire duration of the scan. In case this cannot be achieved, please make arrangements with one of our MR Technicians to provide support. MR Technicians are not required to be on the premises during all scans, and cannot be assumed to provide backup support without prior notice. Please note that at least one individual present is required to be a full-time/part-time staff, graduate student, post-doc etc. Part-time paid undergraduate researchers cannot presently act as primary users unless submitted to CCN for review.
@@ -65,3 +65,66 @@ Scan Personnel
 
 Scan Scheduling
 ---------------
+
+**Booking Rules and Policies:** The center does not mandate a strict limit on when scans can be booked relative to the scanning date. However, to foster cooperation and consideration within the community, booked scan times are assumed to be filled (assigned a participant) promptly and booked on an as-needed basis. Scans that are booked in advance, above and beyond the current scheduling norms, will be reviewed by the CCN staff and potentially cancelled. Under current policy, the scheduling rules are as follows:
+
+1. No slot-holding allowed. You must have a confirmed participant for each scheduled scan, at the time of scheduling. You will be required to enter a Subject ID when you schedule a scan, to verify you have a participants lined up for the slot. Conduct the recruitment process accordingly--for example, have the calendar open as you discuss availability with your participant and only book time that they agree to. Do not book time days, weeks, or months ahead with the intention of finding participants to fill them later. We understand that it may feel safer to reserve slots in advance, but many projects are actively scanning at CCN, and it only takes a few instances of this behavior to throttle scan opportunities for everyone.
+2. Maximum of 3 scans per project, per week, during prime time (Mon-Fri, 8am - 6pm). This applies to every project unless you have made prior arrangements with CCN. There are no restrictions after hours (Mon-Fri, 6pm+; Weekends).
+3. Confirm with participants at least 5 days in advance of your scheduled scan. If your participant cannot commit to their participation 5 days out, please cancel your appointment so that other groups may be able to fill the time. After reviewing cancellation patterns, it is evident that sessions cancelled ~72 hours or less do not give adequate time for other groups to fill the space, and hours of otherwise-usable time go to waste. We understand that participants sometimes cancel last minute, no-show, or come in with unexpected safety concerns, but these occasions should be kept to an absolute minimum.
+4. 15-Minute Gaps: Scans cannot be scheduled for a time that would leave a 15-minute gap before or after another scan. This helps prevent small intervals of time from accumulating throughout the day and adding up to wasted usable hours. The only exception is if the user wants to book time that would necessarily have to leave 15 minutes either before or after their reservation. For example, you may book 1-2pm even if the previous scan ends at 12:45pm and the next one begins at 2pm, because there is no way to avoid leaving 15 minutes open at one end or the other. This is permitted because using 60 of those 75 open minutes is preferable to leaving the entire time unused.
+5. Subject ID: As mentioned above, the system will require a Subject ID to book a scan. This ID will be whatever lab convention you are using for the participant who will be coming for that slot (e.g., "ProjectA_Sub01"--DO NOT use the subject's name or any other identifying information).
+6. Protocol ID: You will also be required to enter a Protocol ID at the time of booking. This is the code that identifies the scan protocol you will be running. It will have the format XXX-X.X and is built into every active protocol name. You can find it on your protocol PDF or on the console computer when you pull up your lab's projects. There is no way to access this information remotely otherwise, so make sure your scan team has made a note of each active project's Protocol ID. DO NOT enter IRB or other numbers in this field.
+7. Special Accommodations: Investigators whose experimental needs do not fit these guidelines (e.g., if the study requires participants to have multiple scans within a specific time window) are encouraged to contact our MR Technician and make other arrangements.
+8. Cancellations: Scans must be cancelled >72hrs prior to the scheduled time to avoid scan charge. If a research group continually falls in the late cancellation range, CCN will ask for information to verify those slots were filled using appropriate scheduling practices. CCN may impose additional restrictions on scheduling (such as limiting the amount of scans that can be booked at one time) for groups that engage in profligate cancelling and/or reserving slots without confirmed participants. Each funded project starts with two free cancellations and accrues another after every 10 completed scans. Please fill out this `scan cancellation form <https://docs.google.com/forms/d/e/1FAIpQLSd5d9vuN6ii9h0W9BZ1C1-fspoS5VPB-oMDZHjyql8oSmywzg/viewform>`_ in order to inform CCN admin of issues leading to late (<72hr) cancellations. CCN has compiled a `list of best practices and recommendations <https://drive.google.com/file/d/1yLR77cLHod_-bwauu4AtoAq51bbiNUgv/view?usp=sharing>`_ regarding how to mitigate late cancellations.
+
+Scan Procedures
+----------------
+
+Metal Screening and Safety Clearance:
+~~~~~~~~~~~~~~~~
+All participants need to be diligently screened for contraindications to MR imaging during recruitment. Review and sign the `Metal Screening Form <https://drive.google.com/file/d/1aUwmgXoij_czd8YktXmo0yDLjpqbuUpm/view?usp=sharing>`_ with each participant for each scan session. If there are any items of concern, follow up with your participant for more information, collect all relevant documentation from them and/or their medical team, and pass everything along to CCN staff for a final decision. Do not ask CCN about your participant's implant or device without first researching the relevant background. 
+
+All implants needs to be cleared by CCN *before scanning*. If your participant has an implant, please follow the `instructions <https://docs.google.com/document/d/13g-DVRauCgZAkScw0D5j03cCPeCiu2Fi/edit#heading=h.rgb25in7p2nc>`_ to submit a ticket in our `ticketing system <https://support.idre.ucla.edu/helpdesk/>`_ for clearance. Please keep in mind:
+
+- At least six weeks must pass after any surgical procedure before your participant can be considered for scanning.
+- No tattoos or other permanent cosmetics on the face or head. The only exception is eyebrow microblading. To be clear, you should still obtain clearance for other tattoos your participant may have--just be aware that permanent ink of any kind on the face or head (except microbladed eyebrows) automatically disqualifies your subject.
+
+Facility Policies:
+~~~~~~~~~~~~~~~~~~
+**Infection Control**
+
+Please make sure the participant completes the Pre-Appointment Illness Screening Form before arriving at UCLA. You should administer this form either the night before or the morning of their scan appointment. Many other researchers, staff, research subjects, and family members come through CCN, meaning we need to minimize the potential for infections floating around the Center. If your participant fails to clear the illness screening, please reschedule their appointment. Past guidance for infection control policies can be found here.
+
+**Participant Arrival**
+
+Please make sure that your study participants have a direct contact and that lab personnel will be available to take calls and/or respond promptly to texts/emails as the time of the scan approaches. Study participants should not wait inside of CCN unattended. If a participant arrives early and you are part of the research team, make sure someone is available to communicate with the person and direct them to wait on the bench right outside CCN. If you are in CCN and not part of the research team expecting this participant's arrival, it is up to you if you have the time to ask questions and help figure out who their research contact is. Regardless, still ask them to wait on the bench outside CCN.
+
+Scanner Use:
+~~~~~~~~~~~~~~~~~
+**Pilot Program:** 
+
+*NOTE: The pilot program is back! However, please still consider CTSI for funding opportunities.* The Center will consider proposals by members of the UCLA community to access both the scanning and analysis core services for pilot studies without charge to the investigator. Priority will be given to junior investigators and to proposals for novel cognitive neuroscience projects that have a high likelihood of achieving extramural funding. To submit such a request, email the completed application to the CCN Managing Director. The proposal will be reviewed by the Executive Committee members and CCN personnel will contact you regarding the status of the submission. As stated in the application, if you need more space than provided for any item within please use a Word document to submit your answers.
+
+**Protocol Testing:**
+
+Each new protocol is granted off-hours time to test and refine the scanning protocol, at no charge. Development (and pilot) time is granted by CCN personnel and booked via SIStat. Please reach out to ccnsupport@g.ucla.edu for instructions on booking development time when your team is ready to test a protocol.
+
+**Scan Testing:**
+
+Each new project is permitted two free scan sessions with a human phantom to ensure that the full setup is functional. The group is responsible for recruiting their own test participant, whose images cannot be used as publishable data, and who must still undergo safety screening despite not being included as a real study participant. All such scans must be booked with free Development/Practice time, assigned by CCN personnel.
+
+**Scan Time:** 
+
+All scans are expected to start and end promptly at the scheduled time. It is the investigators’ responsibility to communicate with the CCN staff and/or other investigators if these times cannot be met. Please note that CCN and/or other investigators may not be able to accommodate requests for change of scheduled time when these are communicated less than 24 hours prior to the appointment.
+
+**Scan Start and End:** 
+
+All users have the right to start their scan on time, no questions asked. Start and stop time includes setup and cleanup--users must build this into their scanner scheduling (i.e., scanner must be ready for next group by their scheduled start time). When possible, try and be flexible. However, if the next group is adamant about starting their scan at the scheduled time, then it must be so. If the current scan is running behind, the current group must make an effort to inform the next group. The next group may then, at their discretion, allow the current group to scan into their allotted time, but this is done as a courtesy and not out of expectation that the next user will provide the same. Projects that continually run over time will be required to book more time for future scans.
+
+**Data Transfer:** 
+
+All f/MRI data are transferred automatically to a dedicated server and stored for 5 years before being deleted. In cases where data must be transferred manually from any of the computers in the MR suite, please notify the MR Technician to make arrangements. No external storage devices (flash drives, hard disks, etc.) are to be connected to the scanner without prior approval. If data is not visible in the DICOM server 24 hours after acquisition, please contact MR Technician immediately to resolve. Due to high scan load, only 3 days of scan data can be guaranteed to be kept on the host machine at any given time. The onus is on each lab to check DICOM the morning after each scan (data syncs overnight) and make sure all images have transferred successfully. It is not CCN's responsibility to check that data has transferred to the server without issue.
+
+**Incident Reporting:**
+
+Users are responsible for communicating with CCN staff any equipment malfunction or software irregularities that occur during the course of the scan session. This may include scanner error messages which do not allow users to continue with their session, the breaking or malfunction of peripheral equipment etc. Emergency incidents, such as injuries, natural disasters or magnet quench, should be relayed to the MR Tech immediately and CCN's Incident Reporting Form should be filled out in a timely manner.
