@@ -1,10 +1,8 @@
 General Information and Policies
-=====
-
-.. CCN Space:
+================================
 
 CCN Space
-------------
+---------
 
 **Restricted Areas:**
 Zones are marked with signage. Only safety certified users and screened participants are allowed to enter the scanning suite (control room & scanner room) unless granted an exemption by CCN. This is for the safety of the individuals and liability of the center. If an exemption is granted, it is for a single instance. It is paramount that uncertified users do not touch any research equipment while shadowing.
