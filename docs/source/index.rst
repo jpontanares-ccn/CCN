@@ -1,7 +1,7 @@
 Welcome to the Center for Cognitive Neuroscience!
 ===================================
 
-Welcome to the **The Staglin IMHRO Center for Cognitive Neuroscience** at UCLA. Please find and contribute helpful information for lab usage here.
+Please find and contribute helpful information for lab usage here.
 Main CCN Website: `CCN Website <https://staglincenterforcogneuro.semel.ucla.edu/>`_
 
 **List of commonly used links:**
