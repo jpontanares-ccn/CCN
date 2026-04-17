@@ -39,12 +39,7 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   MR Suite 
-   EEG Suite
-   Instructions for Admins
-   Troubleshooting
-   Resources
-   FAQ
-   Classes
-   Computing
+   generalpolicies
+
+
 
