@@ -80,7 +80,7 @@ Scan Scheduling
 Scan Procedures
 ----------------
 
-Metal Screening and Safety Clearance:
+Metal Screening and Safety Clearance
 ~~~~~~~~~~~~~~~~
 All participants need to be diligently screened for contraindications to MR imaging during recruitment. Review and sign the `Metal Screening Form <https://drive.google.com/file/d/1aUwmgXoij_czd8YktXmo0yDLjpqbuUpm/view?usp=sharing>`_ with each participant for each scan session. If there are any items of concern, follow up with your participant for more information, collect all relevant documentation from them and/or their medical team, and pass everything along to CCN staff for a final decision. Do not ask CCN about your participant's implant or device without first researching the relevant background. 
 
@@ -89,7 +89,7 @@ All implants needs to be cleared by CCN *before scanning*. If your participant h
 - At least six weeks must pass after any surgical procedure before your participant can be considered for scanning.
 - No tattoos or other permanent cosmetics on the face or head. The only exception is eyebrow microblading. To be clear, you should still obtain clearance for other tattoos your participant may have--just be aware that permanent ink of any kind on the face or head (except microbladed eyebrows) automatically disqualifies your subject.
 
-Facility Policies:
+Facility Policies
 ~~~~~~~~~~~~~~~~~~
 **Infection Control**
 
@@ -99,7 +99,7 @@ Please make sure the participant completes the Pre-Appointment Illness Screening
 
 Please make sure that your study participants have a direct contact and that lab personnel will be available to take calls and/or respond promptly to texts/emails as the time of the scan approaches. Study participants should not wait inside of CCN unattended. If a participant arrives early and you are part of the research team, make sure someone is available to communicate with the person and direct them to wait on the bench right outside CCN. If you are in CCN and not part of the research team expecting this participant's arrival, it is up to you if you have the time to ask questions and help figure out who their research contact is. Regardless, still ask them to wait on the bench outside CCN.
 
-Scanner Use:
+Scanner Use
 ~~~~~~~~~~~~~~~~~
 **Pilot Program** 
 
@@ -136,8 +136,33 @@ Users are responsible for communicating with CCN staff any equipment malfunction
 
 A neuroradiologist is on CCN retainer for reviewing potential incidental findings. **To be clear, you may only submit images for incidental finding review if you have this explicitly described in your approved IRB protocol.** As a reminder, CCN is not a clinical facility, and other than our collaborating neuroradiologist, no CCN faculty or staff are medically trained. For sample language, please refer to the `OHRPP's Consent, Assent, and Screening Templates <https://ohrpp.research.ucla.edu/consent-templates/>`_, in particular the section of the `Biomedical Research Consent Form Standards and Sample Language <https://ucla.app.box.com/v/FR-05f01-Biomed-ICF-Stand-Lang>`_ document addressing clinically relevant results.
 
-See the Incidental Finding Report Tool page for instructions on submitting a report for review.
+**How to report incidental findings:**
 
+.. image:: Incidental_finding_report_flow.png
+
+1. Create a folder and put in all your images and movie files you want to send to the radiologist. *Please circle the area where you consider an anomaly.*
+
+   - The images should include T1 and T2, and are saved in png or jpeg/jpg formats.
+   - (Optional) You can create a "movie" from MRI images to give the radiologist with a fuller, 3D view. This is not required, but often useful in providing more detailed information for the review.
+       - CCN offers a script that will create this movie from a nii.gz folder of structurals: gen_movie.py
+       - You may also create the movie using your own program. Just be sure it can be paused, replayed, and so on (e.g., a mp4 file). Animation files (e.g., gifs) will not allow the radiologist to carefully inspect the area of concern and are therefore of less informational value.
+   - Name your folder that contains all the files with your lab name and subject ID. 
+
+2. Compress the folder with zip, and make sure it's named with your lab name+subject ID.
+
+   - The compressed file should end with ".zip"
+   - If you do not zip your folder, the automated script that checks daily for new submissions will not detect it.
+
+3. Upload the zip file to the Box folder, “CCN_report/YOURGROUP”, which should be shared with your lab.
+
+   - Before you upload the files, please make sure the images and videos are in good quality so the radiologist can make the correct decision based on them. No phone pictures of computer screens. If your lab does not have a Box group folder shared by us, please contact ccnsupport@g.ucla.edu so we can set one up for you.
+
+What will happen after you upload the zip file:
+
+Our script will check the Box folder once a day and if there’s a new zip file, it will unzip it and then send an email to the radiologist with the images attached. It will also send the link of the movie file.
+
+Project Management
+------------------
 
 **Billing and Refunds**
 
