@@ -180,6 +180,8 @@ When adding a new project to the system, it's important to fill out all fields i
 
 All currently active projects should have this Form completed. If your project already exists and you need to add this information, simply navigate to Project Management in the SISTAT system, click on Edit/View of the project in question, and fill out the available information fields. This is very important, as CCN uses this information to assess schedule load and accommodate projects with strict time constraints.
 
+.. image:: AddProjInfo.png
+
 **Billing and Refunds**
 
 Scan Time: All scans must be paid for. CCN will pay for pilot scans as appropriate (see previous section: Scan Procedures > Pilot Program), but all others are paid for by users. Free scan hours are not permitted by Sales & Service, with the exception of specific technical testing and protocol development purposes, which must first be approved by CCN Tech.
