@@ -101,30 +101,49 @@ Please make sure that your study participants have a direct contact and that lab
 
 Scanner Use:
 ~~~~~~~~~~~~~~~~~
-**Pilot Program:** 
+**Pilot Program** 
 
-*NOTE: The pilot program is back! However, please still consider CTSI for funding opportunities.* The Center will consider proposals by members of the UCLA community to access both the scanning and analysis core services for pilot studies without charge to the investigator. Priority will be given to junior investigators and to proposals for novel cognitive neuroscience projects that have a high likelihood of achieving extramural funding. To submit such a request, email the completed application to the CCN Managing Director. The proposal will be reviewed by the Executive Committee members and CCN personnel will contact you regarding the status of the submission. As stated in the application, if you need more space than provided for any item within please use a Word document to submit your answers.
+*NOTE: The pilot program is back! However, please still consider CTSI for funding opportunities.* The Center will consider proposals by members of the UCLA community to access both the scanning and analysis core services for pilot studies without charge to the investigator. Priority will be given to junior investigators and to proposals for novel cognitive neuroscience projects that have a high likelihood of achieving extramural funding. 
 
-**Protocol Testing:**
+See the `Pilot Application here <https://drive.google.com/file/d/1rhfezXO3QP4pV5yjUnNmI8LNkjw7EqS9/view?usp=drive_link>`_! Fill out the application if you would like to apply for scan hours toward a pilot project. Send the completed form to alenarto@g.ucla.edu and make sure to tell us the outcome of the pilot--if it helps you successfully secure funding, this information is crucial to keeping the pilot program going! To submit such a request, email the completed application to the CCN Managing Director. The proposal will be reviewed by the Executive Committee members and CCN personnel will contact you regarding the status of the submission. As stated in the application, if you need more space than provided for any item within please use a Word document to submit your answers.
+
+**Protocol Testing**
 
 Each new protocol is granted off-hours time to test and refine the scanning protocol, at no charge. Development (and pilot) time is granted by CCN personnel and booked via SIStat. Please reach out to ccnsupport@g.ucla.edu for instructions on booking development time when your team is ready to test a protocol.
 
-**Scan Testing:**
+**Scan Testing**
 
 Each new project is permitted two free scan sessions with a human phantom to ensure that the full setup is functional. The group is responsible for recruiting their own test participant, whose images cannot be used as publishable data, and who must still undergo safety screening despite not being included as a real study participant. All such scans must be booked with free Development/Practice time, assigned by CCN personnel.
 
-**Scan Time:** 
+**Scan Time** 
 
 All scans are expected to start and end promptly at the scheduled time. It is the investigators’ responsibility to communicate with the CCN staff and/or other investigators if these times cannot be met. Please note that CCN and/or other investigators may not be able to accommodate requests for change of scheduled time when these are communicated less than 24 hours prior to the appointment.
 
-**Scan Start and End:** 
+**Scan Start and End** 
 
 All users have the right to start their scan on time, no questions asked. Start and stop time includes setup and cleanup--users must build this into their scanner scheduling (i.e., scanner must be ready for next group by their scheduled start time). When possible, try and be flexible. However, if the next group is adamant about starting their scan at the scheduled time, then it must be so. If the current scan is running behind, the current group must make an effort to inform the next group. The next group may then, at their discretion, allow the current group to scan into their allotted time, but this is done as a courtesy and not out of expectation that the next user will provide the same. Projects that continually run over time will be required to book more time for future scans.
 
-**Data Transfer:** 
+**Data Transfer** 
 
 All f/MRI data are transferred automatically to a dedicated server and stored for 5 years before being deleted. In cases where data must be transferred manually from any of the computers in the MR suite, please notify the MR Technician to make arrangements. No external storage devices (flash drives, hard disks, etc.) are to be connected to the scanner without prior approval. If data is not visible in the DICOM server 24 hours after acquisition, please contact MR Technician immediately to resolve. Due to high scan load, only 3 days of scan data can be guaranteed to be kept on the host machine at any given time. The onus is on each lab to check DICOM the morning after each scan (data syncs overnight) and make sure all images have transferred successfully. It is not CCN's responsibility to check that data has transferred to the server without issue.
 
-**Incident Reporting:**
+**Incident Reporting**
 
-Users are responsible for communicating with CCN staff any equipment malfunction or software irregularities that occur during the course of the scan session. This may include scanner error messages which do not allow users to continue with their session, the breaking or malfunction of peripheral equipment etc. Emergency incidents, such as injuries, natural disasters or magnet quench, should be relayed to the MR Tech immediately and CCN's Incident Reporting Form should be filled out in a timely manner.
+Users are responsible for communicating with CCN staff any equipment malfunction or software irregularities that occur during the course of the scan session. This may include scanner error messages which do not allow users to continue with their session, the breaking or malfunction of peripheral equipment etc. Emergency incidents, such as injuries, natural disasters or magnet quench, should be relayed to the MR Tech immediately and CCN's `Incident Reporting Form <https://docs.google.com/forms/d/e/1FAIpQLSckiYXnkzlWcYBfD6BEGTV60Tb36Jj2680Tq8mdw02auoFiKQ/viewform>`_ should be filled out in a timely manner.
+
+**Incidental Findings**
+~~~~~~~~~~~~~~~~~~~~~~~
+
+A neuroradiologist is on CCN retainer for reviewing potential incidental findings. **To be clear, you may only submit images for incidental finding review if you have this explicitly described in your approved IRB protocol.** As a reminder, CCN is not a clinical facility, and other than our collaborating neuroradiologist, no CCN faculty or staff are medically trained. For sample language, please refer to the `OHRPP's Consent, Assent, and Screening Templates <https://ohrpp.research.ucla.edu/consent-templates/>`_, in particular the section of the `Biomedical Research Consent Form Standards and Sample Language <https://ucla.app.box.com/v/FR-05f01-Biomed-ICF-Stand-Lang>`_ document addressing clinically relevant results.
+
+See the Incidental Finding Report Tool page for instructions on submitting a report for review.
+
+
+**Billing and Refunds**
+
+Scan Time: All scans must be paid for. CCN will pay for pilot scans as appropriate (see previous section: Scan Procedures > Pilot Program), but all others are paid for by users. Free scan hours are not permitted by Sales & Service, with the exception of specific technical testing and protocol development purposes, which must first be approved by CCN Tech.
+
+Refunds: Refunds are provided only for CCN-side issues (e.g., scanner problem) or exceptional events beyond the users' control (e.g., earthquake during scan).
+
+`Late Cancellation form: <https://docs.google.com/forms/d/e/1FAIpQLSd5d9vuN6ii9h0W9BZ1C1-fspoS5VPB-oMDZHjyql8oSmywzg/viewform>`_
+
