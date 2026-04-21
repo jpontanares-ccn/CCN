@@ -163,6 +163,22 @@ Our script will check the Box folder once a day and if there’s a new zip file,
 
 Project Management
 ------------------
+SIStat (https://www.sistat.ucla.edu/ccnsas/login.asp) is used for all project management at CCN. On SISat, you will be able to:
+
+- Upload your IRB approvals
+- Encumber funds so you can bill scans to your project
+- Schedule/cancel scans
+- Add certified personnel to your lab/project
+
+**Visit this page for more information on managing your project on SIStat:**  https://www.sistat.ucla.edu/ccnsas/AboutCCNSAS.asp
+
+.. image:: CCN_pmFlowChart.png
+
+Adding a new project to SIStat
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When adding a new project to the system, it's important to fill out all fields in the New Project Form. This includes IRB, Funding, Personnel, as well as project specific information regarding start and end dates, expected number of scans per week, total scan load, duration, and whether the project has any scheduling constraints.
+
+All currently active projects should have this Form completed. If your project already exists and you need to add this information, simply navigate to Project Management in the SISTAT system, click on Edit/View of the project in question, and fill out the available information fields. This is very important, as CCN uses this information to assess schedule load and accommodate projects with strict time constraints.
 
 **Billing and Refunds**
 
