@@ -171,6 +171,7 @@ SIStat (https://www.sistat.ucla.edu/ccnsas/login.asp) is used for all project ma
 - Add certified personnel to your lab/project
 
 **Visit this page for more information on managing your project on SIStat:**  https://www.sistat.ucla.edu/ccnsas/AboutCCNSAS.asp
+For any further questions, please contact Marlo Duran at mdduran@mednet.ucla.edu.
 
 .. image:: CCN_pmFlowChart.png
 
@@ -181,6 +182,71 @@ When adding a new project to the system, it's important to fill out all fields i
 All currently active projects should have this Form completed. If your project already exists and you need to add this information, simply navigate to Project Management in the SISTAT system, click on Edit/View of the project in question, and fill out the available information fields. This is very important, as CCN uses this information to assess schedule load and accommodate projects with strict time constraints.
 
 .. image:: AddProjInfo.png
+
+Adding personnel to your project
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Information about lab members can be found under General --> My Profile | My Personnel.
+
+**Adding a New User**
+
+Before CCN Techs can activate a user for scanning in the scheduling system, an account must be created for them by a member of their lab. Your lab study PI or co-coordinator should have administrative privileges to add new users to the lab.
+
+1. Navigate to "General" → "My Profile | My Personnel"
+2. Under the "User" dropdown menu, select "Create Passport For New User"
+3. Input the new user's information (bolded fields). Either create a strong password for them or a simple one they can change easily to a strong password of their own. Do NOT leave the password field blank.
+4. The new user will receive an email with their login credentials.
+5. Once the account is created, please email ccnsupport@g.ucla.edu to activate the account and input their certification information. SIStat does not notify CCN when accounts are created, so if you forget this step, CCN staff will not know there is a new account to be activated. The new user will not appear in SIStat as a Primary/Secondary User scheduling option until the lab sends CCN the email and receives confirmation that the process is complete. Either the user him/herself or the lab member who creates the account can email CCN with the notification--just make sure nobody forgets/delays this step or you will only find out when you try to schedule the new user for the first time.
+6. Every new user receives an email summarizing these instructions at the end of the certification process. These steps are also discussed verbally during the final in-person portion of the process (Operations Training).
+
+**DICOM Accounts**
+
+CCN has a DICOM server that stores raw data under each group's directory. To apply for a DICOM server account:
+
+- Send an email with the following information to the CCN Programmer Analyst **Jonathan Hernandez (jonhernandez@mednet.ucla.edu)**
+   - Your Hoffman2 account ID if you have one
+   - CC your request to the PI whose group directory you need access to for approval
+- If you have an account with the Brain Mapping Center and want access to the CCN DICOM server, you will still need to apply for an account. CCN and the BMC are separate organizations and require separate accounts and policies.
+
+Study Team & Personnel FAQ
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Can an uncertified person shadow my scan?**
+
+- As per the information above (see CCN's Restricted Areas policy), uncertified individuals are not allowed in the control room unless granted an exemption by CCN. Contact CCN for such an exemption if it's necessary for someone to shadow your scan. Regardless, the uncertified person is prohibited from touching any research equipment and any exemptions granted only apply to a single instance. Users who have started but not finished the certification process are considered uncertified until the full certification is completed. If you have questions about this, please ask.
+
+**Can I be a primary user?**
+
+- See "Scan Personnel" in section for general restrictions on user roles. Current CCN policy stipulates that primary users need to be full-time in some capacity (staff, faculty, postdocs, etc.), with a few exceptions for personnel such as faculty with part-time appointments.
+
+- Primary Users are required to have significant scanning experience. The typical path to Primary status is to gain experience by scanning alongside existing Primary Users in the lab as Secondary Users (safety seconds). CCN does not stipulate a specific number of required scans because we understand that new users come in with different backgrounds and levels of scan experience. Once the Secondary User has become highly familiar with the setup/cleanup process and scan procedures, email ccnsupport@g.ucla.edu (cc'ing the PI and Primaries they have scanned with) to request Primary status.
+- If your lab is new or has no current Primary Users for another reason, email ccnsupport@g.ucla.edu and explain your situation. You will need to find other ways to gain scan experience, which may involve scanning with and/or shadowing other labs. The situation becomes more complicated if you need to go from newly-certified to Primary User very quickly. Communicate early and closely with CCN admins to work out a plan.
+- If your group needs an undergrad RA or work-study to become a Primary User, please email ccnsupport@g.ucla.edu for review.
+
+**Primary User (Responsible User) Definition**
+- Allowable Roles: Full-time staff, Post-doc, Graduate student, or Faculty member
+   - Can perform all scan related responsibilities independently without the need for supervision
+   - Will serve as the primary scan operator
+   - Responsible for assigning tasks to and providing oversight for the secondary user, especially if secondary user has volunteer status
+
+**Secondary User Definition**
+Allowable Roles: Any of the aforementioned full-time roles, Part-time paid/work-study students, volunteers
+Full-time roles
+   - Allowed to perform all responsibilities independently without supervision of the primary scanner
+   - May serve as scan operators
+   - Part-time paid undergraduate/work-study
+   - May perform responsibilities explicitly defined in their UCLA approved job description independently without supervision
+      - This can include operating the scanner, handling scanner and peripheral equipment, interacting with participants
+   - May only serve as primary user with additional review by CCN
+
+**UCLA Volunteer**
+
+   - May NOT directly handle participants, coils, or operate MR beds/controls
+   - Must ALWAYS navigate the CCN suite under strict supervision of the primary scanner/responsible user
+   - May not serve as primary user
+   - In the event of an emergency where the primary scanner is unable to perform their duties, volunteer personnel should be trained on stopping the scan and removing the participant
+   - Required to undergo full CCN safety training
+   - Must be officially onboarded via UCLA Health Sciences Volunteer Office
+   - Please refer to the Staglin CCN Volunteer Addendum
 
 **Billing and Refunds**
 
