@@ -248,6 +248,28 @@ Full-time roles
    - Must be officially onboarded via UCLA Health Sciences Volunteer Office
    - Please refer to the Staglin CCN Volunteer Addendum
 
+Funding & Costs
+~~~~~~~~~~~~~~~
+
+**Scan Costs**
+
+- Current pricing for the scanner is set at $600 per hour (incremented at $150 every 15 minutes) during "Prime Time" hours.
+Please note this is expected to increase to $650 per hour after our Sales and Service contract is reviewed.
+- Scanning is priced at a reduced rate for "Off-Peak Hours" and Weekends
+Full list of pricing:
+
+Please review the image carefully for a breakdown of the times considered "Prime" and "Off-Peak"
+
+**Add Fund**
+
+Funding sources can be added under "Financial" → "Add Fund"
+New projects must be linked with Active funds.
+Adding a fund requires:
+   1. Funding agency
+   2. Active FAU
+   3. Start and End date
+   4. Fund manager overseeing this fund
+
 **Billing and Refunds**
 
 Scan Time: All scans must be paid for. CCN will pay for pilot scans as appropriate (see previous section: Scan Procedures > Pilot Program), but all others are paid for by users. Free scan hours are not permitted by Sales & Service, with the exception of specific technical testing and protocol development purposes, which must first be approved by CCN Tech.
