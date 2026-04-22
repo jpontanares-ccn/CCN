@@ -253,12 +253,11 @@ Funding & Costs
 
 **Scan Costs**
 
-- Current pricing for the scanner is set at $600 per hour (incremented at $150 every 15 minutes) during "Prime Time" hours.
-Please note this is expected to increase to $650 per hour after our Sales and Service contract is reviewed.
+- Current pricing for the scanner is set at $600 per hour (incremented at $150 every 15 minutes) during "Prime Time" hours. Please note this is expected to increase to $650 per hour after our Sales and Service contract is reviewed.
 - Scanning is priced at a reduced rate for "Off-Peak Hours" and Weekends
 Full list of pricing:
 
-Please review the image carefully for a breakdown of the times considered "Prime" and "Off-Peak"
+.. image:: Staglin_MRI_Scanner_Costs.png
 
 **Add Fund**
 
@@ -276,5 +275,10 @@ Scan Time: All scans must be paid for. CCN will pay for pilot scans as appropria
 
 Refunds: Refunds are provided only for CCN-side issues (e.g., scanner problem) or exceptional events beyond the users' control (e.g., earthquake during scan).
 
-`Late Cancellation form: <https://docs.google.com/forms/d/e/1FAIpQLSd5d9vuN6ii9h0W9BZ1C1-fspoS5VPB-oMDZHjyql8oSmywzg/viewform>`_
+Cancellation Policy
+~~~~~~~~~~~~~~~~~~~
+
+There is no cancellation fee for scans cancelled more than 72 hours before the scheduled time.
+
+*Scans cancelled within 72 hours of the scheduled time will be charged 30% of the full scan fee.* Each project will accrue one free cancellation per ten scans completed. Please continue to fill out the late cancellation form for scans cancelled within 72 hours, so we can monitor patterns under this policy: `Late Cancellation Form <https://docs.google.com/forms/d/e/1FAIpQLSd5d9vuN6ii9h0W9BZ1C1-fspoS5VPB-oMDZHjyql8oSmywzg/viewform>`_
 
