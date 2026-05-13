@@ -176,6 +176,20 @@ Peripheral equipment available for projects include:
 - Eye Camera: Used to monitor wakefulness
 - EyeLink 1000 Eyetracker: Used to monitor fixations and saccades
 
+iMac Computer:
+The MR suite is equipped with a dedicated iMac computer running Mac OS High Sierra with a dual-boot Windows 10 partition capable of running:
+
+Psychophysics Software:
+- Psychtoolbox,
+- PsychoPy
+- E-Prime
+- MATLAB 2015b
+- AcqKnowledge 4 (for BioPac MP150)
+To start up the dual-boot and access Windows, restart the iMac while holding down the Option key. You will need a password--contact CCN staff for it.
+
+For new software, please contact the MR Technician before installation.
+
+
 Project Management
 ------------------
 SIStat (https://www.sistat.ucla.edu/ccnsas/login.asp) is used for all project management at CCN. On SISat, you will be able to:
