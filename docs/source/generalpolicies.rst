@@ -14,7 +14,7 @@ It is the responsibility of all experimenters to maintain the facility in a clea
 - Equipment and Peripherals: Users must obtain consent from CCN Tech or Dr. Robert Welsh to add, change, and/or remove equipment in the control room or magnet room. USB flash drives must be properly scanned for viruses before connecting to console.
 - Mock Scanner: An MRI simulator or "mock scanner" that gives subjects a realistic sensory experience. Features a real table fitted with a wooden bore (no magnetic field or metal concerns). Includes Mo-Track software, and a dedicated laptop to play movies and recorded scanner noise.
 
-**Electronics and Machine Shop**
+**Electronics and Machine Shop:**
 Facilities for fabrication of specialized devices such as radio receiver coils, stimulation and response devices, holders and stabilizers for subjects, as needed by the users for quick and temporary solutions. 
 
 **Testing Room:** 
