@@ -3,6 +3,7 @@ MRI
 Safety Certification and Training
 ---------------------------------
 See our Safety Manual here: https://drive.google.com/file/d/13xyaDkLcjBykdLvge3fMe-t_9HoukyMR/view
+
 See our Operations Manual here: https://drive.google.com/file/d/1oKXD0I-bfHry6axPdoW7ECzzJWpMSVCd/view?usp=sharing
 
 **Certification and Recertification Process:**
