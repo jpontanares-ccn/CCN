@@ -2,6 +2,9 @@ MRI
 ===
 Safety Certification and Training
 ---------------------------------
+See our Safety Manual here: https://drive.google.com/file/d/13xyaDkLcjBykdLvge3fMe-t_9HoukyMR/view
+See our Operations Manual here: https://drive.google.com/file/d/1oKXD0I-bfHry6axPdoW7ECzzJWpMSVCd/view?usp=sharing
+
 **Certification and Recertification Process:**
 CCN safety certification is done using a combination of in-person sessions and remote work via the Staglin Safety and Training Course on `Bruinlearn <https://bruinlearn.ucla.edu/>`_ . You can log into BruinLearn with your UCLA credentials, but will need an enrollment link to register for the Staglin Center Safety module for the first time. Please get an enrollment link from your lab manager or the #ccn-resources channel on Slack. Only contact CCN personnel after first checking with your lab admin and the Slack channel. The enrollment link is not posted on this wiki for security reasons.
 
