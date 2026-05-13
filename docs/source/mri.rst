@@ -136,6 +136,21 @@ Users are responsible for communicating with CCN staff any equipment malfunction
 
 A neuroradiologist is on CCN retainer for reviewing potential incidental findings. **To be clear, you may only submit images for incidental finding review if you have this explicitly described in your approved IRB protocol.** As a reminder, CCN is not a clinical facility, and other than our collaborating neuroradiologist, no CCN faculty or staff are medically trained. For sample language, please refer to the `OHRPP's Consent, Assent, and Screening Templates <https://ohrpp.research.ucla.edu/consent-templates/>`_, in particular the section of the `Biomedical Research Consent Form Standards and Sample Language <https://ucla.app.box.com/v/FR-05f01-Biomed-ICF-Stand-Lang>`_ document addressing clinically relevant results.
 
+**Scan Equipment**
+~~~~~~~~~~~~~~~~~~
+Peripheral equipment available for projects include:
+
+- Siemens intercom system
+- Siemens physiological measurement system: Includes pulse, respiration, and EKG
+- VisuaStim digital system by RTC: Includes goggles/headphone/controller unit
+- Opto Acoustic Noise Canceling Headphones: Thin profile headphones that fit in 32CH coil with active noise cancellation technology
+- BOLDscreen Display: LCD display system controlled via fiberoptic cabling
+- Current Designs Response Devices: 4-button, 2-button, and track-ball response devices
+- FIRMM: Real-time motion monitoring system
+- BioPac MP150: For collecting physiological measures including skin conductance, respiration rate, and pulse rate/waveform
+- Eye Camera: Used to monitor wakefulness
+- EyeLink 1000 Eyetracker: Used to monitor fixations and saccades
+
 **How to report incidental findings:**
 
 .. image:: Incidental_finding_report_flow.png
