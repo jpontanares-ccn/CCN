@@ -40,5 +40,6 @@ Contents
 
    generalpolicies
    mri
+   eeg
 
 
