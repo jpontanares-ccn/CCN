@@ -135,8 +135,8 @@ All f/MRI data are transferred automatically to a dedicated server and stored fo
 
 Users are responsible for communicating with CCN staff any equipment malfunction or software irregularities that occur during the course of the scan session. This may include scanner error messages which do not allow users to continue with their session, the breaking or malfunction of peripheral equipment etc. Emergency incidents, such as injuries, natural disasters or magnet quench, should be relayed to the MR Tech immediately and CCN's `Incident Reporting Form <https://docs.google.com/forms/d/e/1FAIpQLSckiYXnkzlWcYBfD6BEGTV60Tb36Jj2680Tq8mdw02auoFiKQ/viewform>`_ should be filled out in a timely manner.
 
-**Incidental Findings**
-~~~~~~~~~~~~~~~~~~~~~~~
+Incidental Findings
+~~~~~~~~~~~~~~~~~~~
 
 A neuroradiologist is on CCN retainer for reviewing potential incidental findings. **To be clear, you may only submit images for incidental finding review if you have this explicitly described in your approved IRB protocol.** As a reminder, CCN is not a clinical facility, and other than our collaborating neuroradiologist, no CCN faculty or staff are medically trained. For sample language, please refer to the `OHRPP's Consent, Assent, and Screening Templates <https://ohrpp.research.ucla.edu/consent-templates/>`_, in particular the section of the `Biomedical Research Consent Form Standards and Sample Language <https://ucla.app.box.com/v/FR-05f01-Biomed-ICF-Stand-Lang>`_ document addressing clinically relevant results.
 
@@ -165,8 +165,8 @@ What will happen after you upload the zip file:
 
 Our script will check the Box folder once a day and if there’s a new zip file, it will unzip it and then send an email to the radiologist with the images attached. It will also send the link of the movie file.
 
-**Scan Equipment**
-~~~~~~~~~~~~~~~~~~
+Scan Equipment
+~~~~~~~~~~~~~~
 Peripheral equipment available for projects include:
 
 - Siemens intercom system
