@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'CCN'
-copyright = '2026, Jillian'
-author = 'Jillian'
+copyright = '2026, Jillian Pontanares'
+author = 'Jillian Pontanares'
 
 release = '0.1'
 version = '0.1.0'
