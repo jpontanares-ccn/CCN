@@ -75,7 +75,8 @@ New User Checklist
 4. Complete any UCLA Health training certifications listed under “My Transcript” (requires AD/Mednet ID): https://uclahealth.csod.com/samldefault.aspx
 5. UCLA Employee Discounts: Check for deals on supplies and services as you get set up at UCLA! https://campusservices.ucla.edu/discounts
 
-**Getting Started at CCN**
+Getting Started at CCN
+~~~~~~~~~~~~~~~~~~~~~~
 
 1. Set up your project at CCN Scanning and Analysis Service (SIStat): SIStat is the platform CCN uses to schedule scans, manage personnel, connect funds. Please contact Marlo Duran to create your lab and set up your project.
 2. If your lab uses the Hoffman2 cluster for data processing:
