@@ -3,6 +3,16 @@ Welcome to the Center for Cognitive Neuroscience at UCLA!
 
 Main CCN Website: `CCN Website <https://staglincenterforcogneuro.semel.ucla.edu/>`_
 
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   generalpolicies
+   mri
+   eeg
+
 **List of commonly used links:**
 
 - `CCN YouTube channel: <https://www.youtube.com/@uclastaglincenterforcognit4262/videos/>`_ The channel contains very useful videos demonstrating common procedures at CCN--how to prepare a participant for a scan, navigating the XA30 upgraded software, placing voxels for spectroscopy, and so on.
@@ -22,8 +32,6 @@ Main CCN Website: `CCN Website <https://staglincenterforcogneuro.semel.ucla.edu/
 - `Scan Cancellation Form: <https://forms.gle/E9uzNYDZheAqihce7/>`_ Fill out this form if you need to cancel a scan within 72 hours.
 - `Pilot Application Form: <hhttps://drive.google.com/file/d/1rhfezXO3QP4pV5yjUnNmI8LNkjw7EqS9/view?usp=drive_link/>`_ Fill out this form if you would like to apply for scan hours toward a pilot project. Send the completed form to alenarto@g.ucla.edu and make sure to tell us the outcome of the pilot--if it helps you successfully secure funding, this information is crucial to keeping the pilot program going!
 
-**CCN iMac login:** The username and password are both CCN.
-
 **Help Contacts**
 
 - Need safety/metal clearance for your participants? Submit a ticket following instructions: `Submit a Ticket <https://docs.google.com/document/d/13g-DVRauCgZAkScw0D5j03cCPeCiu2Fi/edit/>`_
@@ -31,15 +39,5 @@ Main CCN Website: `CCN Website <https://staglincenterforcogneuro.semel.ucla.edu/
 - Questions regarding DICOM? Please contact Haiyan (HaiyanWang@mednet.ucla.edu) or Jonathan (JonHernandez@mednet.ucla.edu) .
 - **ccnsupport@g.ucla.edu:** Email this address with all other CCN-related questions and requests.
 
-
-Contents
---------
-
-.. toctree::
-   :maxdepth: 1
-
-   generalpolicies
-   mri
-   eeg
 
 
