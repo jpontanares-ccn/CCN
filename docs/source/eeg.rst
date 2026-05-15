@@ -33,8 +33,37 @@ The connections for the monitor, keyboard, and speakers are bound together and h
 
 For the addition of other peripherals, please contact the suite administrators.
 
+**Procedure for routine net tests:** https://www.egi.com/images/stories/manuals/Printed%20IFUs%20with%20New%20Notified%20Body/HC_GSN_RM_sponged_appl_uins_8403481-53_20181210.pdf
+
+
 EEG Procedures
 --------------
+
+Equipment and Supplies
+~~~~~~~~~~~~~~~~~~~~~~
+Most of the supplies needed for EEG testing is located in the EEG net room in the wooden cabinet by the sink. If you open the left cabinet, on the main top shelf, most of the supplies you will need for testing will be located in the plastic bin labeled with EEG supplies. You will find the following in that bin:
+
+- scissors
+- red wax pencil
+- tape measure
+- spandages
+- disposable EEG/MR electrodes
+- Johnson's baby shampoo, EEG solution salt, extra electrodes, the EGI net manual, and EGI net boxes along with their respective measuring spoons are usually located on top of the cabinet by the sink. The electrodes and the net boxes are in the cardboard boxes on top of the cabinet.
+
+In the EEG Suite's left testing room, you will find remaining supplies in the cabinets to the left of the table with the computer monitor and the EGI amp. The cabinet shelves are labeled with these items:
+
+- latex gloves
+- disinfectant
+- pipettes
+- medical tape
+- EEG salt
+
+If you see that something has run out, check the following places to see if extras are stored:
+
+- the wooden cabinet by the sink the EEG net room (Johnson's baby shampoo and spandages may be hiding in the shelf below the plastic bins, in the bottom drawers, or on top of the cabinet)
+- the cabinets in the EEG suite (currently, there are MANY boxes in the right-most cabinet in the testing room and some on the top shelf of - the cabinet where the Stimulus computer lives).
+
+NOTE: If something has completely run out, there is an emergency supply located in the shop, but please ask Agatha, Sam, or Cameron for these supplies. BUT ONLY FOR EMERGENCIES.
 
 EEG Net Prep and Application
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -195,5 +224,6 @@ References:
 
 **EGI Rinsing and Disinfecting Instructions**
 The EGI instructions can be found in the black binder in the cabinet in the prep room.
+
 
 
