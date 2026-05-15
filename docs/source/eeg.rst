@@ -69,13 +69,13 @@ NOTE: If something has completely run out, there is an emergency supply located 
 
 We have had success ordering supplies from the following places. The ones ordered from online sites accept purchase orders:
 
-- Pipettes (5.8mL, non-sterile) - `Fisher Scientific <https://www.ccn.ucla.edu/wiki/index.php/Where_to_order_EEG_supplies#:~:text=5.8mL%2C%20non%2Dsterile)%20%2D-,Fisher%20Scientific,-MT%20Spandages%20(MT07>`_
+- Pipettes (5.8mL, non-sterile) - `Fisher Scientific <https://www.fishersci.com/us/en/browse/90140095/Pipette-Products>`_
 - MT Spandages (MT07, 7-inch spandage, 25 yards) - `Vitality Medical MT Spandage <http://www.vitalitymedical.com/mt-spandage-tubular-elastic-dressing.html>`_
 - Johnson & Johnson Baby Shampoo - please send a purchase request to the `CCN Administrator <https://www.semel.ucla.edu/staglin/contact>`_
 - EGI Potassium Chloride (KCl) (2Lb) - E-mail: sales@magstimegi.com
 - Control III Disinfectant (16 oz. bottle) - E-mail: control3@earthlink.net
 - GSR Electrodes (EL509, 100 electrodes/box) - `Biopac Systems, Inc. <http://www.biopac.com/disposable-radiotranslucent-dry-electrode>`_
-- Self-Adhesive Bandage (Item 2082, 2-inch x 5 yards, latex-free) - `Vitality Medical Self-Adhesive Wrap <http://www.vitalitymedical.com/coban-self-adherent-wrap.html>`_
+- Self-Adhesive Bandage (Item 2082, 2-inch x 5 yards, latex-free) - `Vitality Medical Self-Adhesive Wrap <https://www.vitalitymedical.com/caring-latex-self-adherent-cohesive-wrap-non-sterile.html>`_
 
 
 EEG Net Prep and Application
