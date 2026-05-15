@@ -238,5 +238,24 @@ References:
 **EGI Rinsing and Disinfecting Instructions**
 The EGI instructions can be found in the black binder in the cabinet in the prep room.
 
+EKG
+---
+A good tutorial (visual) for EKG application (we typically work with v2 and v4 in the eeg-fmri set up): https://www.adinstruments.com/blog/correctly-place-electrodes-12-lead-ecg
 
+But here's a quick step-by-step:
 
+1. Use an alcohol wipe to clean the area between the pecs and directly below the left pec.
+2. Place a dab of NuPrep on a cotton round and use this to scrub the same areas. This will remove a layer of dead skin cells.
+3. Use another alcohol wipe to reclean the area.
+4. Apply the two BioPac pre-gelled electrodes to the cleaned areas.
+5. Make sure the lead wire is twisted together all along its length. Clip the leads to the BioPac electrodes so that they are pointing in opposite directions. This will reduce noise from induced magnetic fields.
+6. Tape down the electrode/lead pairs.
+7. Check the EKG signal in NetStation.
+
+Useful Links
+------------
+
+- `EGI <http://www.egi.com/>`_
+- `EGI Amp <https://www.egi.com/research-division/net-amps-eeg-amplifier>`_
+- `EGI MR Safe Amp <https://www.egi.com/images/stories/manuals/GES_400/core/GES_400MR_uman_8100401-55_20150722_hires.pdf>`_
+- `EGI Knowledge Center <https://www.egi.com/knowledge-center>`_
