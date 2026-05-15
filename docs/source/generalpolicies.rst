@@ -1,4 +1,4 @@
-General Information and Policies
+General Policies and Resources
 ================================
 
 CCN Space
@@ -53,4 +53,36 @@ The Ultrasound Suite is equipped with:
 - BrainSight Neuronavigation camera
 - 55mm, 65mm, and 80mm ultrasound transducers
 
+Resources
+---------
+
+New User Checklist
+~~~~~~~~~~~~~~~~~~
+
+**Getting started with research at UCLA**
+
+1. Register for a g.ucla.edu (Google) account: https://g.ucla.edu/
+2. Install and configure VPN on your personal computer: https://it.ucla.edu/it-support-center/services/virtual-private-network-vpn-clients
+3. Complete CITI research training: https://ohrpp.research.ucla.edu/citi-training/
+  Relevant courses are listed below. Some may be required or optional depending on your specific area of research:
+    
+    - Biomedical Researchers & Staff
+    - UCLA HIPAA
+    - GCP - Social and Behavioral Research Best Practices for Clinical Research
+    - Social & Behavioral Researchers & Staff
+    - Social and Behavioral Responsible Conduct of Research OPTIONAL
+    - FDA Regulated Research
+4. Complete any UCLA Health training certifications listed under “My Transcript” (requires AD/Mednet ID): https://uclahealth.csod.com/samldefault.aspx
+5. UCLA Employee Discounts: Check for deals on supplies and services as you get set up at UCLA! https://campusservices.ucla.edu/discounts
+
+**Getting Started at CCN**
+
+1. Set up your project at CCN Scanning and Analysis Service (SIStat): SIStat is the platform CCN uses to schedule scans, manage personnel, connect funds. Please contact Marlo Duran to create your lab and set up your project.
+2. If your lab uses the Hoffman2 cluster for data processing:
+
+  - Register for a Hoffman2 account: https://www.hoffman2.idre.ucla.edu/Accounts/Requesting-an-account.html
+  - Download X2Go: https://wiki.x2go.org/doku.php/doc:installation:x2goclient
+  - Configure X2Go for remote desktop access to Hoffman2: https://www.hoffman2.idre.ucla.edu/Using-H2/Connecting/Connecting.html#x2go-client
+3. To access your scan data on the DICOM server: Contact CCN's IT team. Instructions are on the "DICOM Accounts" section of this wiki: https://www.ccn.ucla.edu/wiki/index.php?title=Personnel#DICOM_Accounts
+4. Complete MRI and/or EEG Certification: CCN safety certification is done using a combination of in-person sessions and remote work via the Staglin Safety and Training Course on Bruinlearn. Please ask your lab manager/research coordinator if you need an enrollment link. All links and resources necessary can be found on the BruinLearn course. Recertification is also done via the BruinLearn platform, with no password necessary. Please only email the MR Tech if you are experiencing trouble enrolling in the course or you have questions with the materials.
 
