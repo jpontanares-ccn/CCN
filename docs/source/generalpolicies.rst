@@ -87,3 +87,55 @@ Getting Started at CCN
 3. To access your scan data on the DICOM server: Contact CCN's IT team. Instructions are on the "DICOM Accounts" section of this wiki: https://www.ccn.ucla.edu/wiki/index.php?title=Personnel#DICOM_Accounts
 4. Complete MRI and/or EEG Certification: CCN safety certification is done using a combination of in-person sessions and remote work via the Staglin Safety and Training Course on Bruinlearn. Please ask your lab manager/research coordinator if you need an enrollment link. All links and resources necessary can be found on the BruinLearn course. Recertification is also done via the BruinLearn platform, with no password necessary. Please only email the MR Tech if you are experiencing trouble enrolling in the course or you have questions with the materials.
 
+Software Licenses
+~~~~~~~~~~~~~~~~~
+
+Below is a non-exhaustive list of campus-wide software licenses available to UCLA students, faculty, and staff.
+
+For up-to-date information, please visit the `UCLA Digital Toolkit <https://dts.ucla.edu/>`_ , `the UCLA IT Services Knowledge Base <https://ucla.service-now.com/support?id=kb_view>`_ , and the `UCLA Software Central <https://ucla.service-now.com/support?id=sc_category&sys_id=526f0ae81b6c29143b0555351a4bcbc8>`_ .
+
+
+**Google Apps for UCLA**
+
+`g.ucla.edu <https://g.ucla.edu/>`_
+
+- Generally required for access to UCLA licensed software.
+- Includes Unlimited Cloud Storage with Google Drive.
+
+**Office 365**
+
+Microsoft Office ProPlus (Students)
+
+**Box**
+
+`Box - Unlimited Cloud Storage Solution <https://ucla.service-now.com/support?id=its_browse_service&sys_id=cb31ebb01b9c885038cec8415b4bcb9a>`_
+
+- General Purpose (g.ucla.edu): https://ucla.account.box.com/
+- HIPAA-compliant (mednet): https://uclahs.account.box.com/
+
+**MATLAB**
+
+Academic Licenses
+
+- https://softwarecentral.ucla.edu/matlab-getmatlab
+- https://www.mathworks.com/academia/tah-portal/ucla-31454052.html
+
+
+**Collaboration Tools**
+
+- Slack: ucla.slack.com
+- Zoom:
+  General Purpose (g.ucla.edu): https://ucla.zoom.us/
+  HIPAA-compliant (mednet): https://ucla-hipaa.zoom.us
+- Overleaf: overleaf.com/edu/ucla
+
+**Security Software**
+- `FrontDoorSoftware <https://frontdoorsoftware.com/UCLA/>`_ : Loss, Recovery and Personal Safety Software. Available for up to four years
+
+
+**References:**
+
+- https://softwarecentral.ucla.edu/
+- https://www.it.ucla.edu/it-support-center
+- https://www.it.ucla.edu/connect-at-home
+
